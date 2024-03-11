@@ -18,12 +18,12 @@ link2.addEventListener('click', () =>{
     scrollToElement('.sertfika');
 });
 
-/*link1.addEventListener('click', () =>{
-    scrollToElement('.header');
-});*/
+link3.addEventListener('click', () =>{
+    scrollToElement('.projeler');
+});
 
 link4.addEventListener('click', () =>{
-    scrollToElement('.column');
+    scrollToElement('.socials');
 });
 
 const toTop = document.querySelector(".to-top");
